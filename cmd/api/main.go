@@ -6,7 +6,7 @@ import (
 	"net"
 	"time"
 
-	pb "github.com/HenryNgai/SIMPLE_RPC_API/proto/aggregator"
+	pb "github.com/HenryNgai/Simple_RPC_API/proto/aggregator"
 	"google.golang.org/grpc"
 )
 
